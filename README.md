@@ -1,4 +1,4 @@
-# 💫 About Me:-
+# 💫 About Me:
 🔭 I’m currently working on<br><br>AI & Data Science academic and mini projects<br><br>👯 I’m looking to collaborate on<br><br>AI, ML, and Data Science projects<br><br>🤝 I’m looking for help with<br><br>Real-world ML projects and model optimization<br><br>🌱 I’m currently learning<br><br>Machine Learning, Python, and Data Analysis<br><br>💬 Ask me about<br><br>AI & Data Science basics and Python<br><br>⚡ Fun fact<br><br>I enjoy learning by building projects 🚀
 
 
